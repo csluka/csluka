@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christina Sluka @csluka
-- 🌱 I’m a doctoral student at the Univeristy of Wyoming
+- 🌱 I’m a Postdoc at the Univeristy of Wyoming
 - 📫 How to reach me: csluka@uwyo.edu
 
 <!---
